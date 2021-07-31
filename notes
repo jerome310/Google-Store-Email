@@ -1,0 +1,28 @@
+Font-family Snippet: font-family: 'Noto Sans JP', sans-serif;
+
+Image Snippet: 
+<tr>
+    <td align="center"><img src="https://i.postimg.cc/5tB95zym/google-phone.png" width="600" height="auto" border="0" style="display: block; max-width: 600px; width: 100%; border-style: none;">
+    </td>
+</tr>
+
+Button Snippet: 
+ <tr>
+    <td>
+    <a href="https://store.google.com/US/product/pixel_4a?hl=en-US&utm_source=promo&utm_medium=email_crm&utm_campaign=GS200088&utm_content=herocta" target="_blank" style="background: #1a73e8; 
+    text-decoration: none; padding: 15px 35px; color: #fff; 
+    border-radius: 5px; display:inline-block; 
+    mso-padding-alt:0; text-underline-color:#333"><!--[if mso]>
+    <i style="letter-spacing: 25px;mso-font-width:-100%;mso-text-raise:30pt">&nbsp;</i>
+    <![endif]--><span style="mso-text-raise:15pt;">Pre-Order</span><!--[if mso]>
+    <i style="letter-spacing: 25px;mso-font-width:-100%">&nbsp;</i><![endif]-->
+    </a>
+    </td>
+</tr>
+
+Grey Background Snippet:
+
+style="background-color: #f2f2f2;"
+
+
+Text Grey/Black Color: color: #423e3e;
